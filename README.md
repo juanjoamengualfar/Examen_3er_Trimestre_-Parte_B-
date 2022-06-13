@@ -28,3 +28,10 @@
 
 <br>
 
+
+
+# APARTADO 2
+
+
+
+### 1. Lo primero de todo, hacer el log in:
