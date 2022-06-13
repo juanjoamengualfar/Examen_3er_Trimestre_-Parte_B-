@@ -16,19 +16,19 @@
 
 <br>
 
-### 2. Continuamos con el ejercicio 2, en el que crearemos un contenedor y listaremos el contenido de la carpeta con el comando "docker run centos ls/":
+### 3. Continuamos con el ejercicio 2, en el que crearemos un contenedor y listaremos el contenido de la carpeta con el comando "docker run centos ls/":
 
 ![Ejercicio 2](https://user-images.githubusercontent.com/91874635/173305092-e006c096-b6a7-4bdf-b14b-9d7377efe3b0.PNG)
 
 <br>
 
-### 3. Continuamos con el ejercicio 3, en el que crearemos un contenedor de httpd (Servidor Apache) utilizando el comando docker run httpd:
+### 4. Continuamos con el ejercicio 3, en el que crearemos un contenedor de httpd (Servidor Apache) utilizando el comando docker run httpd:
 
 ![Ejercicio 3](https://user-images.githubusercontent.com/91874635/173305642-32746a0e-5f64-4836-9fd2-dc098e8b0b56.PNG)
 
 <br>
 
-### 4. Continuamos con el ejercicio 4, en el que crearemos un contenedor de debian 9 y mostraremos el contenido de una carpeta establecida con el parámetro -w (docker run -it -w /etc debian:9 ls):
+### 5. Continuamos con el ejercicio 4, en el que crearemos un contenedor de debian 9 y mostraremos el contenido de una carpeta establecida con el parámetro -w (docker run -it -w /etc debian:9 ls):
 
 ![Ejercicio 4](https://user-images.githubusercontent.com/91874635/173306556-e5d9c670-69fb-46ed-b10a-bc736fb8d521.PNG)
 
