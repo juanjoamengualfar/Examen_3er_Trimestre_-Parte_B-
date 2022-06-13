@@ -1,7 +1,7 @@
 # Examen_3er_Trimestre_-Parte_B-
 
 
-#APARTADO 1
+# APARTADO 1
 
 
 ## 1. Lo primero de todo, hacer el log in:
