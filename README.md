@@ -43,11 +43,29 @@
 # APARTADO 2
 
 
+### 1. Lo primero de todo será crear una imagen tomcat con el código siguiente:
 
-### 1. Lo primero de todo, hacer el log in:
+![Crear una imagen tomcat](https://user-images.githubusercontent.com/91874635/173310773-ed915bb4-7fab-45db-9ddc-b829e8bc9a9a.PNG)
 
+![Crear una imagen tomcat](https://user-images.githubusercontent.com/91874635/173315643-ae823d7e-4c81-49e0-95f9-59c057678880.PNG)
 
+<br>
 
+### 2. Lo siguiente será cambiar el nombre de la imagen al que queramos con el siguiente código:
+
+![cambiar el nombre](https://user-images.githubusercontent.com/91874635/173314628-af439b35-a650-48eb-8bcc-59fd8c9f0540.PNG)
+
+<br>
+
+### 3. Por último, lo que deberemos hacer es un push para que se suba a docker hub:
+
+![push a docker hub](https://user-images.githubusercontent.com/91874635/173316266-f63c6e32-5d3e-4119-968c-e4c44fd176ae.PNG)
+
+<br>
+
+### 4. Para comprobar que todo se ha subido correctamente podemos acceder a docker hub, al apartado de nuestros repositorios, en el caso de que no nos aparezca lo que deberemos hacer es refrescar la página:
+
+![repositorio de docker hub](https://user-images.githubusercontent.com/91874635/173316762-c2b3ebd7-0670-435f-a187-a0f6138381b7.png)
 
 
 
