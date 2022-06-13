@@ -16,6 +16,15 @@
 
 <br>
 
-### 2. Continuamos con el ejercicio 2, en el que crearemos un contenedor y listaremos el contenido de la carpeta con el comando "docker run ubuntu:18.04 ls /":
+### 2. Continuamos con el ejercicio 2, en el que crearemos un contenedor y listaremos el contenido de la carpeta con el comando "docker run centos ls/":
 
+![Ejercicio 2](https://user-images.githubusercontent.com/91874635/173305092-e006c096-b6a7-4bdf-b14b-9d7377efe3b0.PNG)
+
+<br>
+
+### 3. Continuamos con el ejercicio 3, en el que crearemos un contenedor de httpd (Servidor Apache) utilizando el comando docker run httpd:
+
+![Ejercicio 3](https://user-images.githubusercontent.com/91874635/173305642-32746a0e-5f64-4836-9fd2-dc098e8b0b56.PNG)
+
+<br>
 
