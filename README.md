@@ -28,7 +28,12 @@
 
 <br>
 
+### 4. Continuamos con el ejercicio 4, en el que crearemos un contenedor de debian 9 y mostraremos el contenido de una carpeta establecida con el parámetro -w (docker run -it -w /etc debian:9 ls):
 
+![Ejercicio 4](https://user-images.githubusercontent.com/91874635/173306556-e5d9c670-69fb-46ed-b10a-bc736fb8d521.PNG)
+
+<br>
+<br>
 
 # APARTADO 2
 
