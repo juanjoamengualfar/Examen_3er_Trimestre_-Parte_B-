@@ -33,6 +33,11 @@
 ![Ejercicio 4](https://user-images.githubusercontent.com/91874635/173306556-e5d9c670-69fb-46ed-b10a-bc736fb8d521.PNG)
 
 <br>
+
+### Para ver todo lo que hemos realizado hasta el momento utilizaremos el comando docker ps:
+![Contenedores realizados](https://user-images.githubusercontent.com/91874635/173307233-ad223793-d0c9-49d6-bb7e-c330992bb914.PNG)
+
+<br>
 <br>
 
 # APARTADO 2
@@ -40,3 +45,11 @@
 
 
 ### 1. Lo primero de todo, hacer el log in:
+
+
+
+
+
+
+
+
